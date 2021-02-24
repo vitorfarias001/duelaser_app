@@ -1,15 +1,11 @@
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  </head>
-  <body>
-    <embed src="duelaser_app-master/src/assets/logo.svg" />
-  </body>
-</html>
+<h1 align ="center">
+<br>
+  <img src="duelaser_app-master/src/assets/logo.png"  width="240">
+<br>
+</h1>
+<p align ="center">Projeto que faz a comunicação com uma maquina a laser que esta em uma raspberry pi
+</p>
 
-<p align ="center">Projeto que faz a comunicação com uma maquina a laser que esta em uma raspberry pi</p>
 
 
 
