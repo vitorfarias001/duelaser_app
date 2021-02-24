@@ -7,14 +7,10 @@
 </p>
 
 
-
-
-
-
 ## 🚀 Tecnologias utilizidas
 Essas foram as tecnologias utilizadas para a produção do projeto
-
-- ✔ React Native
+ 
+- ✔ React Native ⚛️ A lib that provides a way to create native apps for Android and iOS
 - ✔ useEffect
 - ✔ useState
 - ✔ useCallBack
@@ -24,7 +20,7 @@ Essas foram as tecnologias utilizadas para a produção do projeto
 - ✔ createContext
 - ✔ TypeScript = database 
 - ✔ Axios
-- ✔ Node.js
+- ✔ Node.js 💹 A web framework for Node Js
 - ✔ Navigation
 - ✔ AsyncStorage
 - ✔ StyleSheet
