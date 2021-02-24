@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   </head>
   <body>
-    <embed src="logo.svg" />
+    <embed src="duelaser_app-master/src/assets/logo.svg" />
   </body>
 </html>
 
