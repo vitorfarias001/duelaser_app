@@ -1,6 +1,6 @@
 <h1 align ="center">
 <br>
-  <img src="/src/assets/Tela.svg">
+  <img src="src/assets/tela.svg" alt="DueLaser" width="240">
 <br>
 </h1>
 <p align ="center">Projeto que faz a comunicação com uma maquina a laser que esta em uma raspberry pi
