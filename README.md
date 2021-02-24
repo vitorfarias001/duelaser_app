@@ -1,11 +1,10 @@
 <h1 align ="center">
 <br>
-  <img src="/src/assets/logo@3x.png">
+  <img src="/src/assets/Untitled.svg">
 <br>
 </h1>
 <p align ="center">Projeto que faz a comunicação com uma maquina a laser que esta em uma raspberry pi
 </p>
-
 
 
 
