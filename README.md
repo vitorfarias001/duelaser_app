@@ -1,12 +1,32 @@
-# DueLaserApp
-Projeto feito com  React Native , Node JS , TypeScript 
+ # DevRadarApc
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+✔️Typescript
+
+✔️React Native
+
+✔️React Hooks
+
+✔️Styled-components
+
+✔️Node
+
+✔️Axios
 
 
-Tela de Splash
-![image](https://i.ibb.co/CwXXtR4/iphone-11-splash.png)
+## 💻 Projeto
 
-Tela de Busca
-![image](https://i.ibb.co/mht4gYQ/Rectangle.png)
+DueLaserApp , Projeto feito não conlcuido para acelear a mão de obra da empresa.
 
-Tela de Busca
-![image](https://i.ibb.co/mht4gYQ/Rectangle.png)
+## ⚙ Configuração
+
+1- Para instalar as dependências:
+> yarn
+
+2- Para iniciar a aplicação:
+> expo start 
+
+
+---<img src="../duelaser_app-master/src/assets/videoApp.gif" width="40" height="40" />
