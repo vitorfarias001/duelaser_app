@@ -1,4 +1,4 @@
- # DueApp
+ # DevRadarApc
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -29,4 +29,4 @@ DueLaserApp , Projeto feito não conlcuido para acelear a mão de obra da empres
 > expo start 
 
 
----<img src=".github/videoApp.gif/> width="40 height="40" />
+---<img src="../duelaser_app-master/.github/videoApp.gif" width="40" height="40" />
