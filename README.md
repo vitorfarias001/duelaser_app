@@ -29,4 +29,3 @@ DueLaserApp , Projeto feito não conlcuido para acelear a mão de obra da empres
 > expo start 
 
 
----<img src="../duelaser_app-master/assets/videoApp.gif" width="40" height="40" />
