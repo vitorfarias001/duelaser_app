@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-DueLaserApp , Projeto feito não conlcuido para acelear a mão de obra da empresa.
+DueLaserApp , Projeto feito não conlcuido para acelerar a mão de obra da empresa.
 
 ## ⚙ Configuração
 
